@@ -2,7 +2,7 @@
 Created by:
 * Christian AUSSERER
 * Viktoria BLAHNA
-* Sebastian Pieler
+* Sebastian PIELER
 * Sebastian SPÖRKER
 
 ## Kurzbeschreibung
