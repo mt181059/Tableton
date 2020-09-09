@@ -20,7 +20,7 @@ Mitarbeiter                             |  Datum      | Arbeitsschritt
 --------------------------------------  | ----------- | -----------------------------
 Ausserer, Blahna, Spörker, Pieler       |22.Mai.2020  | Projektstart, Projektplanung
 Ausserer, Blahna		                |25.Mai.2020  | KickOff-Besprechung mit Herrn Lechner
-Ausserer, Blahna, Spörker, Pieler       |11.Juni.2020 | 1.Treffen, Aufbauen der Installation, Erkennen von Impulsen am Brett, Zuordnen, im Ableton, Basic-Patch
+Ausserer, Blahna, Spörker, Pieler       |11.Juni.2020 | 1.Treffen, Aufbauen der Installation, Erkennen von Impulsen am Brett, Zuordnen im Ableton, Basic-Patch
 Ausserer							    |13.Juni.2020 | Problembehebung
 Ausserer, Blahna, Spörker, Pieler	    |2.Sept.2020  | Besprechung über Microsoft Teams
 Ausserer, Blahna, Spörker 			    |7.Sept.2020. | 2.Treffen, Positionserkennung des Impulses, LeapMotion, Patch-Erweiterungen
