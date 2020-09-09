@@ -6,7 +6,7 @@ Created by:
 * Sebastian SPÖRKER
 
 ## Kurzbeschreibung
-**Tableton** setzt sich aus den Worten *Table* und *Ableton* zusammen und funktioniert wie ein interaktives Drumkit. Dies bezieht sich auf verwendete Mittel unseres Projekts. Hierfür wurden Piezo-Kontaktmikrofone auf eine Holzplatte geklebt. Durch Schlagen, Kratzen oder Klopfen auf der Holzplatte werden im Ableton Live Klänger erzeugt. Durch die Verwendung von Max wurde erzielt, dass zwischen verschiedenen Klopfweisen unterschieden werden kann. So kann durch Veränderung der Position und der Klopfweise verschiedene Klänge wie zum Beispiel Snare oder Kick "gespielt" werden. Zusätzlich wurde eine LeapMotion integriert, mit der sich diverse Parameter, wie Reverb, steuern lassen. 
+**Tableton** setzt sich aus den Worten *Table* und *Ableton* zusammen und funktioniert wie ein interaktives Drumkit. Dies bezieht sich auf verwendete Mittel unseres Projekts. Hierfür wurden Piezo-Kontaktmikrofone auf eine Holzplatte geklebt. Durch Schlagen, Kratzen oder Klopfen auf der Holzplatte werden im Ableton Live Klänger erzeugt. Durch die Verwendung von Max wurde erzielt, dass zwischen verschiedenen Klopfweisen unterschieden werden kann. So kann durch Veränderung der Klopfweise verschiedene Klänge wie zum Beispiel Snare oder Kick "gespielt" werden. Zusätzlich wurde eine LeapMotion integriert, mit der sich diverse Parameter, wie Reverb, steuern lassen. 
 
 ## Showreel
 (https://drive.google.com/drive/folders/1yb5p4gtI8XzjLIm-2rsT1srPszbterx6?usp=sharing)
