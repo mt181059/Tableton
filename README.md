@@ -13,7 +13,7 @@ Created by:
 
 
 ## Arbeitsweise
-Durch unsere Installation auf einem Holzbrett war das alleinige arbeiten ohne das Brett wenig bis nicht sinnvoll. Wir beschlossen daher, nach Beendigung der Planungsphase, vor Ort gemeinsam am Projekt zu arbeiten. Termine und Orte für diese Treffen zu finden, gestallteten sich jedoch wegen Corona und privater Umstände, wie Ferialarbeit, schwieriger als erwartet. Auch war uns der Umstieg von MacOS auf Windows, wegen technischer Probleme, um etliche Arbeitsschritte zurück. Nachdem wir wieder zurück auf MacOS umsteigen konnten verlief die Projektarbeit mehr oder minder ohne größere Probleme.  
+Durch unsere Installation auf einem Holzbrett war das alleinige arbeiten ohne das Brett wenig bis nicht sinnvoll. Wir beschlossen daher, nach Beendigung der Planungsphase, vor Ort gemeinsam am Projekt zu arbeiten. Termine und Orte für diese Treffen zu finden, gestallteten sich jedoch wegen Corona und privater Umstände, wie Ferialarbeit, schwieriger als erwartet. Auch warf uns der Umstieg von MacOS auf Windows, wegen technischer Probleme, um etliche Arbeitsschritte zurück. Nachdem wir wieder zurück auf MacOS umsteigen konnten verlief die Projektarbeit mehr oder minder ohne größere Probleme.  
 
 
 Mitarbeiter                             |  Datum      | Arbeitsschritt
