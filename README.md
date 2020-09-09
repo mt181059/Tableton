@@ -1,9 +1,9 @@
 # Tableton
 Created by:
-* Christian AUSSERER
-* Viktoria BLAHNA
-* Sebastian PIELER
-* Sebastian SPÖRKER
+* Christian AUSSERER - mt191130
+* Viktoria BLAHNA - mt181059
+* Sebastian PIELER - mt181088
+* Sebastian SPÖRKER - mt181024
 
 ## Kurzbeschreibung
 **Tableton** setzt sich aus den Worten *Table* und *Ableton* zusammen und funktioniert wie ein interaktives Drumkit. Dies bezieht sich auf verwendete Mittel unseres Projekts. Hierfür wurden Piezo-Kontaktmikrofone auf eine Holzplatte geklebt. Durch Schlagen, Kratzen oder Klopfen auf der Holzplatte werden im Ableton Live Klänger erzeugt. Durch die Verwendung von Max wurde erzielt, dass zwischen verschiedenen Klopfweisen unterschieden werden kann. So kann durch Veränderung der Klopfweise verschiedene Klänge wie zum Beispiel Snare oder Kick "gespielt" werden. Zusätzlich wurde eine LeapMotion integriert, mit der sich diverse Parameter, wie Reverb, steuern lassen. Zusätzlich können Snare und Kick mittels Loopmachine recorded werden und als Background für den Eigenklang des Tisches verwendet werden.
